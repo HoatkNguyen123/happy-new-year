@@ -46,3 +46,7 @@ function start() {
 
   }, 1000);
 }
+
+function hoand() {
+  console.log(111);
+}
